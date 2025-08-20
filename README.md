@@ -1,7 +1,7 @@
 # Hi there 👋 It's me **Ragul B**
 
 🎓 Student @ Dr.N.G.P Institute Of Technology  
-🌱 Currently learning **DSA**, Web Development, and building cool stuff!
+🌱 I'm  Web Development, and building cool stuff!
 
 ---
 
@@ -19,11 +19,11 @@ Check out my work: [My Portfolio](https://your-portfolio-link.com) <!-- Replace 
 
 ## 💻 I Code In
 
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Java](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYxbb6SR81a9Fe_hBTvejMWf7iwJ3YIgqffw&s)
+![JavaScript](https://logos-world.net/wp-content/uploads/2023/02/JavaScript-Logo.png)
+![HTML5](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png)
+![CSS3](https://1000logos.net/wp-content/uploads/2020/09/CSS-Logo-2011.png)
+![React](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZU7ROY1McY6_DGlhueA-uyViRSxeSon81hw&s)
 
 ---
 

@@ -24,10 +24,16 @@
 
 <p align="left">
 
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java"/>
-  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML"/>
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS"/>
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
+ <div style="display: flex; gap: 10px;">
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" style="width: 48px; height: 48px; object-fit: cover;"/>
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" style="width: 48px; height: 48px; object-fit: cover;"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" style="width: 48px; height: 48px; object-fit: cover;"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" style="width: 48px; height: 48px; object-fit: cover;"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW3Rlc7xaKXDRc67zoXeoNbzQRgd8-nsq6dA&s" alt="React" style="width: 48px; height: 48px; object-fit: cover;"/>
+</div>
+
+
+
 
 </p>
 

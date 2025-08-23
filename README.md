@@ -6,7 +6,6 @@
 
 ### 🚀 About Me
 
-- 🧭 Here's my [**Portfolio**](https://your-portfolio-link.com)
 - 🌱 I’m currently learning **React js**
 - 📬 How to reach me:
 
